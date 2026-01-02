@@ -1,5 +1,5 @@
-import React, { useState, useEffect } from 'react';
-import { Sparkles, Share2, RefreshCw, ChevronRight, Gift, Copy, ExternalLink } from 'lucide-react';
+import React, { useState } from 'react';
+import { Sparkles, Share2, RefreshCw, Gift, ExternalLink } from 'lucide-react';
 
 export default function AuraTestDeploy() {
   const [step, setStep] = useState('intro'); // intro, question, loading, result
