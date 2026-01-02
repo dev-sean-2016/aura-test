@@ -51,7 +51,7 @@ export default function AuraTestDeploy() {
       item: {
         name: "에너지 부스터 영양제",
         desc: "지치지 않는 당신을 위한 필수템",
-        link: "https://coupang.com/..." // 실제 본인 링크 삽입
+        link: "https://link.coupang.com/a/dkqC4U" // 실제 본인 링크 삽입
       }
     },
     "EN": {
@@ -62,7 +62,7 @@ export default function AuraTestDeploy() {
       item: {
         name: "블루투스 마이크 Pro",
         desc: "모임 분위기를 뒤집어놓을 아이템",
-        link: "https://coupang.com/..."
+        link: "https://link.coupang.com/a/dkqCKP"
       }
     },
     "IS": {
@@ -73,7 +73,7 @@ export default function AuraTestDeploy() {
       item: {
         name: "고급 가죽 다이어리",
         desc: "당신의 완벽한 계획을 위한 파트너",
-        link: "https://coupang.com/..."
+        link: "https://link.coupang.com/a/dkqBD5"
       }
     },
     "IN": {
@@ -84,7 +84,7 @@ export default function AuraTestDeploy() {
       item: {
         name: "오로라 무드등",
         desc: "새벽 감성을 채워줄 인테리어 소품",
-        link: "https://coupang.com/..."
+        link: "https://link.coupang.com/a/dkqALe"
       }
     }
   };
